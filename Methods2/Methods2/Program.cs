@@ -7,8 +7,6 @@ namespace Methods2
         static void Main(string[] args)
         {
             Console.WriteLine("Please write a number:");
-
-
             string firstNumber = Console.ReadLine();
 
             Console.WriteLine("Please write another number:");
